@@ -1,0 +1,6 @@
+{
+  "name": "Alif Lam Syamsiyah & Alif Lam Qamariyah",
+  "description": "Media pembelajaran tajwid interaktif Alif Lam Syamsiyah dan Alif Lam Qamariyah yang ramah anak dan pemula dengan kartu huruf interaktif, perbandingan visual, kuis, dan game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
